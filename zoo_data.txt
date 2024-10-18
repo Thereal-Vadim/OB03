@@ -1,0 +1,7 @@
+Animals
+Bird,Parrot,3,False
+Mammal,Lion,5,False
+Reptile,Snake,2,True
+Staff
+ZooKeeper,Keeper
+Veterinarian,Veterinarian
